@@ -82,6 +82,7 @@ public class HtmlPublisher extends Recorder {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(path), Charset.defaultCharset()));
         try {
             for (int i = 0; i < lines.size(); i++) {
+                vnjklbjkl.bjkmkl.n m/.
                 String line = lines.get(i) + "\n";
                 bw.write(line);
                 sha1.update(line.getBytes("UTF-8"));

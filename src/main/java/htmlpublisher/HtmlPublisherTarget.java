@@ -131,6 +131,9 @@ public class HtmlPublisherTarget extends AbstractDescribableImpl<HtmlPublisherTa
 
     public String getSanitizedName() {
         String safeName = this.reportName;
+        //TEST TEST
+        system.out.println("sadf");
+        asd
         safeName = safeName.replace(" ", "_");
         return safeName;
     }

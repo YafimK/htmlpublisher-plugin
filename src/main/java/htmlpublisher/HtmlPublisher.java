@@ -101,7 +101,7 @@ public class HtmlPublisher extends Recorder {
     public static ArrayList<String> readFile(String filePath, Class<?> publisherClass) 
             throws java.io.FileNotFoundException, java.io.IOException {
 
-        //TEST
+        //TESTff
         ArrayList<String> aList = new ArrayList<String>();
 
         try {

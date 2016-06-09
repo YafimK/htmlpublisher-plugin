@@ -275,7 +275,7 @@ public class HtmlPublisher extends Recorder {
                 build.setResult(Result.FAILURE);
                 return true;
             }
-
+dtfhsdhnsdghj
             // Now add the footer.
             reportLines.addAll(footerLines);
             // And write this as the index

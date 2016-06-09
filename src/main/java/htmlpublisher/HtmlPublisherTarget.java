@@ -110,6 +110,7 @@ public class HtmlPublisherTarget extends AbstractDescribableImpl<HtmlPublisherTa
     }
 
     public String getReportDir() {
+        sdfasdf
         return this.reportDir;
     }
 

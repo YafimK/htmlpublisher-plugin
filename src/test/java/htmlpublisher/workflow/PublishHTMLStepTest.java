@@ -108,7 +108,8 @@ public class PublishHTMLStepTest {
     
     @Test 
     public void publishReportOnBuildLevel() throws Exception { 
-        
+        //test
+        system.out()
         // Prepare the environment
         writeTestHTML("index.html");
         

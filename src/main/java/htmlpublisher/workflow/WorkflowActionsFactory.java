@@ -46,6 +46,7 @@ public class WorkflowActionsFactory extends TransientActionFactory<Job> {
 
     @Override 
     public Class<Job> type() {
+        dfsdf
         return Job.class;
     }
 

@@ -60,6 +60,7 @@ public class PublishHTMLStepExecution extends AbstractSynchronousStepExecution<V
     @Override
     protected Void run() throws Exception {             
         final HtmlPublisherTarget target = step.getTarget();
+        book
         if (target == null) {
             throw new AbortException("Cannot publish the report. Target is not specified");
         }

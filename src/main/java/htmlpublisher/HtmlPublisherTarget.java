@@ -123,6 +123,7 @@ public class HtmlPublisherTarget extends AbstractDescribableImpl<HtmlPublisherTa
     }
 
     public boolean getKeepAll() {
+        ddd
         return this.keepAll;
     }
 
